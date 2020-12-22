@@ -1,5 +1,3 @@
-import CartDropdown from '../../components/cart-dropdown/cart-dropdown.component';
-import { removeItem } from './cart.actions';
 import CartActionTypes from './cart.types';
 import { addItemToCart, removeItemFromCart } from './cart.utils';
 
